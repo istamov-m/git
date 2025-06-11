@@ -1,0 +1,8 @@
+h1{
+    color: aqua;
+    transition: 0.1s all;
+}
+
+h1:hover{
+    text-shadow: 0 0 10px aqua;
+}
